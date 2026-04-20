@@ -1,2 +1,2 @@
 # sales-dashboard
-Interactive sales dashboard built with Streamlit and Plotly for analyzing category .
+Interactive sales analytics dashboard built with Streamlit, Pandas and Plotly to analyze sales performance and profit margins.
