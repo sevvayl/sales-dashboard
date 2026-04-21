@@ -17,4 +17,4 @@ An interactive sales analytics dashboard built using Python, Streamlit, Pandas, 
 # How to Run
 ```bash
 pip install -r requirements.txt
-streamlit run app3.py
+streamlit run app3.py 
